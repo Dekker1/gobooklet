@@ -2,7 +2,7 @@
 A small go program that converts pdf-files to booklets using LaTeX.
 
 ## Installation
-```go install github.com/jjdekker/gobooklet```
+```go get github.com/jjdekker/gobooklet```
 
 ## Usage
 ```gobooklet [inputFile] ([outputFile])?```
